@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bridgelabz</groupId>
-    <artifactId>JDBC_Employee_Payroll</artifactId>
+    <artifactId>JDBC-Employee-Payroll</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
